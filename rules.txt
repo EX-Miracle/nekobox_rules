@@ -6,6 +6,10 @@ domain:baidu.com
 domain:douyin.com
 domain:qq.com
 domain:sspai.com
+domain:waveshare.net
+domain:ruanyifeng.com
+domain:api.codelife.cc
+domain:doubao.com
 domain:lkong.com
 domain:appinn.net
 domain:tool.lu
@@ -18,3 +22,16 @@ domain:mimvp.com
 domain:shaoniandream.com
 domain:ddys.pro
 domain:cngal.org
+domain:360buyimg.com
+domain:ysjf.com
+domain:alipan.com
+domain:ishell.cc
+domain:himiku.com
+domain:123pan.com
+domain:trackerslist.com
+domain:wetab.link
+domain:itab.link
+domain:formikanrss.top
+domain:edge.microsoft.com
+domain:zhihu.com
+domain:oshwhub.com
